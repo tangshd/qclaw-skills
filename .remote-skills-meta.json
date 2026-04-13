@@ -1,0 +1,17 @@
+{
+  "skills": {
+    "knowledge-framework": {
+      "type": "inspiration",
+      "version": 1,
+      "sha256": "edf2b57622d1ef570d0f109a41e411e3fad89809826bb1a7ce72b0c1d457a37a",
+      "installed_at": "2026-04-12T22:44:09+08:00"
+    },
+    "persona-switch": {
+      "type": "system",
+      "version": 4,
+      "sha256": "16e0b5206447af13f94077dd2dfed0e89b45e72cba2d8a9b2a925b7b79cb118b",
+      "installed_at": "2026-04-13T20:55:21+08:00"
+    }
+  },
+  "last_sync": "2026-04-13T20:55:21+08:00"
+}
